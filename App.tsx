@@ -4,7 +4,7 @@ import CalculadoraScreen from './src/screens/CalculadoraScreen';
 import { styles } from './src/theme/appTheme';
 
 
-export const App = () => {
+const App = () => {
   return (
     <SafeAreaView style={ styles.fondo } >
       <StatusBar 
@@ -16,5 +16,4 @@ export const App = () => {
   )
 }
 
-
-
+export default App;
