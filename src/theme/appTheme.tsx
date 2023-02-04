@@ -16,7 +16,7 @@ import { StyleSheet } from 'react-native';
         color:'white',
         fontSize:60,
         textAlign:'right',
-        marginBotton:10
+        marginBotton:10 
     },
     resultadoPequeño:{
         color:'rgba(255,255,255,0.25)',
